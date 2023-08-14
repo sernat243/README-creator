@@ -9,32 +9,32 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
     {
         type: 'input',
-        name: 'Title',
+        name: 'title',
         message: 'What is the title of your project?',
     },
     {
         type: 'input',
-        name: 'Description',
+        name: 'description',
         message: 'Provide project description'
     },
     {
         type:'input',
-        name:'Installation',
+        name:'installation',
         message:'Provide installation instructions',
     },
     {
         type:'input',
-        name:'Usage',
+        name:'usage',
         message:'Provide usage instructions',
     },
     {
         type:'input',
-        name:'Contributing',
+        name:'contributing',
         message:'Provide contribution guidelines',
     },
     {
         type:'input',
-        name:'Tests',
+        name:'tests',
         message:'Provide test instructions',
     },
 ];
