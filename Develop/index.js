@@ -35,7 +35,7 @@ const questions = [
     {
         type:'input',
         name:'Tests',
-        message:'Provide',
+        message:'Provide test instructions',
     },
 ];
 
