@@ -38,6 +38,16 @@ const questions = [
         message:'Provide test instructions',
     },
     {
+        type:'input',
+        name:'username',
+        message:'Provide your GitHub username',
+    },
+    {
+        type:'input',
+        name:'email',
+        message:'Provide your email address',
+    },
+    {
         type:'list',
         name:'license',
         message:'Choose a license',
