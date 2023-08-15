@@ -1,15 +1,17 @@
 # README Creator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 The README Creator is a Node.js command-line application that makes it easy to create professional README files for your projects. It uses the Inquirer package to prompt you for information about your project and then generates a README file based on your input.
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
@@ -50,11 +52,11 @@ To run the test suite for the README Generator, use the following command:
 ```bash
 npm test
 ```
+## Questions
+
+If you have any questions about the README Generator or need assistance, please contact me at [gs.devprog@gmail.com](mailto:gs.devprog@gmail.com).
 
 ## License
 
 This application is covered under the MIT License. For more details, please visit [MIT License](https://opensource.org/licenses/MIT).
 
-## Questions
-
-If you have any questions about the README Generator or need assistance, please contact me at [gs.devprog@gmail.com](mailto:gs.devprog@gmail.com).
