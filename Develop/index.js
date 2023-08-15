@@ -37,6 +37,13 @@ const questions = [
         name:'tests',
         message:'Provide test instructions',
     },
+    {
+        type:'list',
+        name:'license',
+        message:'Choose a license',
+        choices: ['MIT', 'Apache2.0', 'none']
+    },
+    
 ];
 
 // TODO: Create a function to write README file
